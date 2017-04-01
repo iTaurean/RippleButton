@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircularRippleButton">
+        <attr name="crb_ripple_width" format="dimension" />
+        <attr name="crb_ripple_color" format="color" />
+        <attr name="crb_text_size" format="dimension" />
+        <attr name="crb_text" format="integer" />
+        <attr name="crb_text_color" format="color" />
+    </declare-styleable>
+</resources>

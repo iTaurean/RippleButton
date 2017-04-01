@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RippleButton</string>
+    <string name="btn_ripple_text">按住我</string>
+    <string name="desc">按住按钮，开始波纹动画。释放按钮，波纹停止</string>
+</resources>
